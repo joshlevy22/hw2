@@ -82,7 +82,7 @@ Actor.destroy_all
 Studio.destroy_all
 
 # Generate models and tables, according to the domain model.
-# Above was handeled directly into the terminal. raisl db:migrate
+# Above was handeled directly into the terminal. rails db:migrate
 
 # Insert data into the database that reflects the sample data shown above.
 # Do not use hard-coded foreign key IDs.
